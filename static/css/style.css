@@ -1,0 +1,68 @@
+
+body {
+    font-family: 'Inter', sans-serif;
+    background: linear-gradient(to right, #e8f5e9, #f1f8e9);
+    margin: 0;
+    padding: 0;
+} 
+
+.container {
+    max-width: 600px;
+    margin: 60px auto;
+    background: #ffffffdd;
+    padding: 40px;
+    border-radius: 16px;
+    box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+.container {
+  min-height: 100vh;
+}
+
+
+.title {
+    text-align: center;
+    color: #2e7d32;
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+input[type="file"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 12px 0 20px 0;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    background-color: #4caf50;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #388e3c;
+}
+
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.8s ease-out forwards;
+}
+
+.drop-shadow-lg {
+  text-shadow: 0 0 10px rgba(76, 175, 80, 0.9);
+}

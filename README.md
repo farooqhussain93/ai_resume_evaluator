@@ -8,7 +8,7 @@ Live: https://ai-resume-evaluator-ehkt.onrender.com/
 GitHub: https://github.com/farooqhussain93/ai_resume_evaluator.git
 
 
-MIT License.
+
 Built with ❤️ by Farooq Hussain
 
 Connect

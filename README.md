@@ -3,9 +3,7 @@ No more guesswork — my AI Resume Evaluator does it all:
 ✅ Paste a job description
 ✅ See match score + insights
 
-Check it out 👇
-Live: https://ai-resume-evaluator-ehkt.onrender.com/
-GitHub: https://github.com/farooqhussain93/ai_resume_evaluator.git
+Check it out 👇<br>Live: https://ai-resume-evaluator-ehkt.onrender.com/<br>GitHub: https://github.com/farooqhussain93/ai_resume_evaluator.git
 
 
 
